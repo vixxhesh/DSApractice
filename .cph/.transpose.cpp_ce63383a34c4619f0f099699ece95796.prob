@@ -1,0 +1,1 @@
+{"name":"Local: transpose","url":"d:\\jsprojects\\chatApp\\transpose.cpp","tests":[{"id":1686203019051,"input":"2 2 \n3 4\n5 6\n","output":""},{"id":1686203068630,"input":"2 2\n3 4 \n5 6","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\jsprojects\\chatApp\\transpose.cpp","group":"local","local":true}

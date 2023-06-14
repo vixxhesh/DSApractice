@@ -1,0 +1,1 @@
+{"name":"Local: max","url":"d:\\jsprojects\\chatApp\\max.cpp","tests":[{"id":1685518074868,"input":"6\n0 -9 6 3 -4 5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\jsprojects\\chatApp\\max.cpp","group":"local","local":true}

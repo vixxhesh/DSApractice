@@ -1,0 +1,1 @@
+{"name":"Local: hello","url":"d:\\jsprojects\\chatApp\\hello.cpp","tests":[{"id":1685511178242,"input":"3 4 5","output":"Pythagorean triplet"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\jsprojects\\chatApp\\hello.cpp","group":"local","local":true}
