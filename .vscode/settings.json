@@ -56,5 +56,6 @@
   "C_Cpp_Runner.useLeakSanitizer": false,
   "files.associations": {
     "ostream": "cpp"
-  }
+  },
+  "C_Cpp.errorSquiggles": "disabled"
 }
