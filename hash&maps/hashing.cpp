@@ -1,6 +1,5 @@
 #include <iostream>
 #include <bits/stdc++.h>
-
 using namespace std;
 
 int main(){
@@ -11,6 +10,7 @@ int main(){
     for(int i = 0;i<n;i++){
         cin >> arr[i];
     }
+
 
     //precompute the hash table
     int hash[1000000] = {0};
