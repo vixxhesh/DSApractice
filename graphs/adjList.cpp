@@ -17,7 +17,6 @@ int main(){
         adj[u].push_back(v);
         adj[v].push_back(u);
     }
-
     //Time complexity: O(N)
     //Space Complexity: O(E)
     return 0;
